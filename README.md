@@ -19,8 +19,8 @@ When certain PHP functions are disabled for security reasons (e.g., `exec`, `she
 ## Usage
 
 1. Clone the repository: `git clone https://github.com/SadBil/bypass-Disabled_functions-PHP.git`
-2. Upload both the `index.php` and `bypass_disablefunc_x64.so` files to your server directory.
-3. Access the `index.php` script via a web browser.
+2. Upload both the `bypass_php.php` and `bypass_disablefunc_x64.so` files to your server directory.
+3. Access the `bypass_php.ph` script via a web browser.
 4. Enter a shell command into the input field and click "Execute" to execute the command.
 
 ## Contributing
